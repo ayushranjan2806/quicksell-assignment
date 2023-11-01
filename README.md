@@ -30,7 +30,7 @@ The Kanban board should be responsive and visually appealing, with a design simi
 <img src="https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square" />
 </a>
 
-Try out the website : [REACT SQL Editor](https://quicksellkanbanboard.netlify.app/)
+Try out the website : [REACT kanban board](https://quicksellkanbanboard.netlify.app/)
 
 ##  Tech Stack
 
